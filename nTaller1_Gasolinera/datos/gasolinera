@@ -1,0 +1,13 @@
+tipo:ISISGAS:10000:400.0
+tipo:Gasolina millos:17000:300.0
+tipo:Senecagas:13000:500.0
+tipo:Transmi gas:15000:600.0
+surtidor:Romulo:ISISGAS:0.0:Gasolina millos:0.0:Senecagas:0.0:Transmi gas:0.0
+surtidor:Santiago:ISISGAS:0.0:Gasolina millos:0.0:Senecagas:0.0:Transmi gas:0.0
+surtidor:Romulo:ISISGAS:0.0:Gasolina millos:0.0:Senecagas:0.0:Transmi gas:0.0
+surtidor:Daniel:ISISGAS:0.0:Gasolina millos:0.0:Senecagas:0.0:Transmi gas:100.0
+empleado:Santiago:0
+empleado:Felipe:0
+empleado:Romulo:0
+empleado:Luis:0
+empleado:Daniel:1500000
